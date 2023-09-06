@@ -31,7 +31,8 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 
 ### 2. Spotify UI Clone
 
-![Spotify UI Clone](https://yourportfolio.com/images/spotify-clone.png)
+![Spotify UI Clone](https://github.com/abdul-1432/portfolioProjects/assets/124916666/b9a2395f-2b3f-4bf0-b12f-fe53f7b01bc7)
+
 
 - Description: A clone of the Spotify user interface, showcasing my front-end skills using HTML5, CSS3, and JavaScript.
 - Demo: [Spotify UI Clone](https://spotify-clone.com)
