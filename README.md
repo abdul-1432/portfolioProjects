@@ -22,7 +22,8 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 
 ### 1. Fabric Clothing Website (E-commerce)
 
-![Fabrio Clothing](https://yourportfolio.com/images/fabrio-clothing.png)
+![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/b3bbef6c-3590-45c2-b7df-2f3c3c0c69d2)
+
 
 - Description: A fully functional e-commerce website for Fabrio Clothing, built with HTML, CSS, JavaScript, and PHP.
 - Demo: [Fabrio Clothing Website](https://gafoor.netlify.app/fabrio)
