@@ -48,6 +48,8 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 
 ### 4. 100 Days 100 Codes Challenge
 
+![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/9163439d-6fb4-473c-aef2-5c2a587a2709)
+
 - Description: A personal project where I documented my journey of coding for 100 consecutive days, demonstrating my commitment to continuous learning.
 - Repository: [100 Days 100 Codes Challenge GitHub](https://github.com/yourusername/100-days-100-codes)
 
