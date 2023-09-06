@@ -40,7 +40,7 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 
 ### 3. Gaming Website
 
-![Gaming Website](https://yourportfolio.com/images/gaming-website.png)
+![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/75933864-37d4-4e3f-a862-272200acfae5)
 
 - Description: An interactive gaming website with dynamic content and user profiles, built with HTML, CSS, JavaScript, and PHP.
 - Demo: [Gaming Website](https://gamingwebsite.com)
