@@ -25,7 +25,7 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 ![Fabrio Clothing](https://yourportfolio.com/images/fabrio-clothing.png)
 
 - Description: A fully functional e-commerce website for Fabrio Clothing, built with HTML, CSS, JavaScript, and PHP.
-- Demo: [Fabrio Clothing Website](https://fabrioclothing.com)
+- Demo: [Fabrio Clothing Website](https://gafoor.netlify.app/fabrio)
 - Repository: [Fabrio Clothing GitHub](https://github.com/yourusername/fabrio-clothing)
 
 ### 2. Spotify UI Clone
