@@ -55,10 +55,14 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 
 ### 5. 30 Advanced JavaScript Projects
 
+![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/cd7c3edf-7a8a-41b0-bf92-a72ce5d75cf9)
+
 - Description: A collection of 30 advanced JavaScript projects, showcasing my expertise in solving complex problems using JavaScript.
 - Repository: [30 Advanced JavaScript Projects GitHub](https://github.com/yourusername/30-advanced-js-projects)
 
 ### 6. Instagram User Analytics
+
+![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/2971a28b-df68-4444-9a48-492541761653)
 
 - Description: A web application that provides analytics and insights into Instagram user profiles, built with Python and Django.
 - Repository: [Instagram User Analytics GitHub](https://github.com/yourusername/instagram-analytics)
