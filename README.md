@@ -1,6 +1,6 @@
 # Portfolio Project - Web Development Showcase
 
-![Portfolio Preview](https://yourportfolio.com/images/portfolio-preview.png)
+![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/c6dbf283-45c2-40ee-8f4c-a00edd63979e)
 
 This GitHub repository contains a portfolio of web development projects that showcase my skills and experience in building web applications using various technologies, including HTML, HTML5, CSS, CSS3, SASS, Bootstrap, JavaScript, PHP, jQuery, and more. This portfolio serves as a demonstration of my abilities and creativity as a web developer.
 
@@ -20,7 +20,7 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 
 ## Projects
 
-### 1. Fabrio Clothing Website (E-commerce)
+### 1. Fabric Clothing Website (E-commerce)
 
 ![Fabrio Clothing](https://yourportfolio.com/images/fabrio-clothing.png)
 
