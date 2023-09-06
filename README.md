@@ -35,7 +35,7 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 
 
 - Description: A clone of the Spotify user interface, showcasing my front-end skills using HTML5, CSS3, and JavaScript.
-- Demo: [Spotify UI Clone](https://spotify-clone.com)
+- Demo: [Spotify UI Clone](https://gafoor.netlify.app/spotify)
 - Repository: [Spotify UI Clone GitHub](https://github.com/yourusername/spotify-clone)
 
 ### 3. Gaming Website
