@@ -87,7 +87,7 @@ To run any of the projects locally, follow these steps:
 1. Clone the GitHub repository:
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/abdul-1432/portfolioProjects
 ```
 
 2. Navigate to the project folder you want to run.
