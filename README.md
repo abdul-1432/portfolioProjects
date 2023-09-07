@@ -50,7 +50,7 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 
 ![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/9163439d-6fb4-473c-aef2-5c2a587a2709)
 
-- Description: A personal project where I documented my journey of coding for 100 consecutive days, demonstrating my commitment to continuous learning.
+- Description: A personal project where I documented my coding journey for 100 consecutive days, demonstrating my commitment to continuous learning.
 - - Demo: [100 Days 100 Codes](https://gafoor.netlify.app/projects/all/90%20days%20codes/home)
 - Repository: [100 Days 100 Codes Challenge GitHub](https://github.com/yourusername/100-days-100-codes)
 
