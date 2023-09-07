@@ -106,4 +106,4 @@ If you'd like to contribute to any of the projects or report issues, please foll
 
 This portfolio is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). You are welcome to use, modify, and distribute the code as per the terms of the license.
 
-Thank you for visiting my portfolio! If you have any inquiries or would like to get in touch, please contact me at [gafoor.mngr@gmail.com](mailto:your.email@example.com).
+Thank you for visiting my portfolio! If you have any inquiries or would like to get in touch, please contact me at [gafoor.mngr@gmail.com](mailto:gafoor.mngr@gmail.com).
