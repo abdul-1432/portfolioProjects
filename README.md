@@ -65,7 +65,7 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 
 ![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/39ff4212-2561-43f8-a588-d65f7d8ded9b)
 
-- Description: A web application that provides analytics and insights into Instagram user profiles, built with Python and Django.
+- Description: A travel website provides a one-stop platform for planning, booking, and discovering a wide range of travel experiences and accommodations worldwide.
 - Demo: [Travelling Website](https://gafoor.netlify.app/travelling)
 - Repository: [Travelling Website GitHub](https://github.com/abdul-1432/portfolioProjects/tree/main/Travelling%20website)
 
