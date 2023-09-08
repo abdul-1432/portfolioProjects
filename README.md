@@ -61,8 +61,16 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 - Description: A collection of 30 advanced JavaScript projects, showcasing my expertise in solving complex problems using JavaScript.
 - Demo: [30 Advance Projects](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/home)
 - Repository: [30 Advanced JavaScript Projects GitHub](https://github.com/yourusername/30-advanced-js-projects)
+### 6. Travelling Website
 
-### 6. Instagram User Analytics
+![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/2971a28b-df68-4444-9a48-492541761653)
+
+- Description: A web application that provides analytics and insights into Instagram user profiles, built with Python and Django.
+- Demo: [Instagarm User Analytics](https://gafoor.netlify.app/instagram)
+- Repository: [Instagram User Analytics GitHub](https://github.com/yourusername/instagram-analytics)
+
+
+### 7. Instagram User Analytics
 
 ![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/2971a28b-df68-4444-9a48-492541761653)
 
