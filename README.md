@@ -63,7 +63,7 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 - Repository: [30 Advanced JavaScript Projects GitHub](https://github.com/yourusername/30-advanced-js-projects)
 ### 6. Travelling Website
 
-![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/2971a28b-df68-4444-9a48-492541761653)
+![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/39ff4212-2561-43f8-a588-d65f7d8ded9b)
 
 - Description: A web application that provides analytics and insights into Instagram user profiles, built with Python and Django.
 - Demo: [Instagarm User Analytics](https://gafoor.netlify.app/instagram)
