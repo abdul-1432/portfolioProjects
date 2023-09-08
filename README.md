@@ -51,7 +51,7 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 ![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/9163439d-6fb4-473c-aef2-5c2a587a2709)
 
 - Description: A personal project where I documented my coding journey for 100 consecutive days, demonstrating my commitment to continuous learning.
-- - Demo: [100 Days 100 Codes](https://gafoor.netlify.app/projects/all/90%20days%20codes/home)
+- Demo: [100 Days 100 Codes](https://gafoor.netlify.app/projects/all/90%20days%20codes/home)
 - Repository: [100 Days 100 Codes Challenge GitHub](https://github.com/yourusername/100-days-100-codes)
 
 ### 5. 30 Advanced JavaScript Projects
@@ -59,6 +59,7 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 ![1](https://github.com/abdul-1432/portfolioProjects/assets/124916666/cd7c3edf-7a8a-41b0-bf92-a72ce5d75cf9)
 
 - Description: A collection of 30 advanced JavaScript projects, showcasing my expertise in solving complex problems using JavaScript.
+- Demo: [30 Advance Projects](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/home)
 - Repository: [30 Advanced JavaScript Projects GitHub](https://github.com/yourusername/30-advanced-js-projects)
 
 ### 6. Instagram User Analytics
