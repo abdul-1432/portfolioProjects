@@ -44,7 +44,7 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 
 - Description: An interactive gaming website with dynamic content and user profiles, built with HTML, CSS, JavaScript, and PHP.
 - Demo: [Gaming Website](https://gafoor.netlify.app/gamming)
-- Repository: [Gaming Website GitHub](https://github.com/yourusername/gaming-website)
+- Repository: [Gaming Website GitHub](https://github.com/abdul-1432/portfolioProjects/tree/main/Gaming%20Landing%20page)
 
 ### 4. 100 Days 100 Codes Challenge
 
