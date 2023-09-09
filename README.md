@@ -76,7 +76,7 @@ In today's digital age, web development is a crucial skill, and this portfolio s
 
 - Description: A web application that provides analytics and insights into Instagram user profiles, built with Python and Django.
 - Demo: [Instagarm User Analytics](https://gafoor.netlify.app/instagram)
-- Repository: [Instagram User Analytics GitHub](https://github.com/yourusername/instagram-analytics)
+- Repository: [Instagram User Analytics GitHub](https://github.com/abdul-1432/portfolioProjects/blob/main/Instagram%20user%20analytics.pdf)
 
 ### 8. Operation Analytics
 
